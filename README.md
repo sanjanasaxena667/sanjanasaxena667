@@ -1,19 +1,21 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+World!+👋;I'm+SANJANA+SAXENA.;A+Machine+Learning+Enthusiast!&center=true&size=30&color=F7A8B8""> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+Techies!+👋;I'm+SANJANA+SAXENA.;A+Machine+Learning+Enthusiast!;&center=true&size=24&color=F7A8B8""> 
 </a>
 
-# [cite_start]👋 Hi there, I'm Sanjana Saxena! [cite: 1]
+# 👋 Hi there, I'm Sanjana Saxena!
 
 ## 🚀 About Me
 
 I'm a passionate and driven Computer Science student with a strong interest in Machine Learning and Deep Learning. I enjoy leveraging data to build intelligent solutions and solve real-world problems.
 
-- [cite_start]🎓 B.Tech in Computer Science & Engineering @ Graphic Era Hill University, Dehradun [cite: 5]
-- [cite_start]💡 Interested in building impactful solutions using Machine Learning [cite: 35][cite_start], Deep Learning [cite: 35][cite_start], and problem-solving[cite: 37].
+- 🎓 B.Tech in Computer Science & Engineering @ Graphic Era Hill University, Dehradun
+- 💡 Interested in building impactful solutions using Machine Learning, Deep Learning, and problem-solving.
 - 🧑‍💻 Aspiring ML Engineer and software developer.
 - [cite_start]🏆 Published a research paper on brain tumor detection in the 2nd international conference ICCICCT. [cite: 39]
 - 💬 Ask me about: Python, C++, Java, Machine Learning, Deep Learning, and Data Structures & Algorithms.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) ---
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjana-saxena-b8453427b)
+
+---
 
 ## 🛠 Tech Stack
 
@@ -49,7 +51,6 @@ I'm a passionate and driven Computer Science student with a strong interest in M
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="numpy logo" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="28" alt="seaborn logo" />
 </div>
 
 ### Databases & Tools
@@ -70,17 +71,17 @@ I'm a passionate and driven Computer Science student with a strong interest in M
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanasaxena667&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanasaxena667&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/your-github-username)](https://github.com/your-github-username)
-[cite_start][![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:saxenasanjana667@gmail.com)](mailto:saxenasanjana667@gmail.com) [cite: 2]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjana-saxena-b8453427b)](https://www.linkedin.com/in/sanjana-saxena-b8453427b)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/sanjanasaxena667)](https://github.com/sanjanasaxena667)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:saxenasanjana667@gmail.com)](mailto:saxenasanjana667@gmail.com)
 
 ---
 
@@ -88,4 +89,4 @@ I'm a passionate and driven Computer Science student with a strong interest in M
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sanjanasaxena667&color=blue)
