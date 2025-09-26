@@ -1,16 +1,91 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+World!+👋;I'm+SANJANA+SAXENA.;A+Machine+Learning+Enthusiast!&center=true&size=30&color=F7A8B8""> 
+</a>
 
-<!--
-**sanjanasaxena667/sanjanasaxena667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [cite_start]👋 Hi there, I'm Sanjana Saxena! [cite: 1]
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate and driven Computer Science student with a strong interest in Machine Learning and Deep Learning. I enjoy leveraging data to build intelligent solutions and solve real-world problems.
+
+- [cite_start]🎓 B.Tech in Computer Science & Engineering @ Graphic Era Hill University, Dehradun [cite: 5]
+- [cite_start]💡 Interested in building impactful solutions using Machine Learning [cite: 35][cite_start], Deep Learning [cite: 35][cite_start], and problem-solving[cite: 37].
+- 🧑‍💻 Aspiring ML Engineer and software developer.
+- [cite_start]🏆 Published a research paper on brain tumor detection in the 2nd international conference ICCICCT. [cite: 39]
+- 💬 Ask me about: Python, C++, Java, Machine Learning, Deep Learning, and Data Structures & Algorithms.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) ---
+
+## 🛠 Tech Stack
+
+### Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="c++ logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="c logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="js logo" />
+</div>
+
+### Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo" />
+</div>
+
+### ML/DL & Data Science
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="tensorflow logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28" alt="scikit-learn logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="pandas logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="numpy logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="28" alt="seaborn logo" />
+</div>
+
+### Databases & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="28" alt="jupyter logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="github logo" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/your-github-username)](https://github.com/your-github-username)
+[cite_start][![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:saxenasanjana667@gmail.com)](mailto:saxenasanjana667@gmail.com) [cite: 2]
+
+---
+
+> "Turning data into insights and ideas into reality."
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
